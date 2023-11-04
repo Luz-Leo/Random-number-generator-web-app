@@ -1,0 +1,24 @@
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+#form {
+    margin: 1em auto 0;
+    width: 800px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
